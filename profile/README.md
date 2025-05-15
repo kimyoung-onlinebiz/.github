@@ -22,7 +22,8 @@
 
 ## 📬 연락처
 
-- 이메일: yhoonpark@kimyoung.co.kr
+- 이메일: yhoonpark [at] kimyoung [dot] co [dot] kr
+  (이메일 주소의 [at]은 @, [dot]은 .로 바꿔서 입력해주세요)
 
 ---
 
